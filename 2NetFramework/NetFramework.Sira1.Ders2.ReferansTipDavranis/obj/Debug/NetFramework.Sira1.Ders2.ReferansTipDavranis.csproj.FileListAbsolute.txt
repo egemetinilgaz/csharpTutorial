@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\bin\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\bin\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\bin\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\obj\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\obj\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\obj\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders2.ReferansTipDavranis\obj\Debug\NetFramework.Sira1.Ders2.ReferansTipDavranis.pdb
