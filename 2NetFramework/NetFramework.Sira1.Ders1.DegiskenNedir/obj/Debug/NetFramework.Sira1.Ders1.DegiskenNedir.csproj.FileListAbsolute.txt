@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\bin\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\bin\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\bin\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\obj\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\obj\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\obj\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders1.DegiskenNedir\obj\Debug\NetFramework.Sira1.Ders1.DegiskenNedir.pdb
