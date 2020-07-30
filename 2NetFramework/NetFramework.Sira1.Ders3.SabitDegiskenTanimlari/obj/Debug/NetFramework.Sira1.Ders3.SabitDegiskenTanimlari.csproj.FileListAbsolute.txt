@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\bin\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\bin\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\bin\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\obj\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\obj\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\obj\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari\obj\Debug\NetFramework.Sira1.Ders3.SabitDegiskenTanimlari.pdb
