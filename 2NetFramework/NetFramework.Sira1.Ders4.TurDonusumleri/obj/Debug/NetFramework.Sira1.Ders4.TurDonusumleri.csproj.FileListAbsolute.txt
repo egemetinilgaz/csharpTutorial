@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\bin\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\bin\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\bin\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\obj\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\obj\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\obj\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders4.TurDonusumleri\obj\Debug\NetFramework.Sira1.Ders4.TurDonusumleri.pdb
