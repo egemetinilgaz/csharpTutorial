@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\bin\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\bin\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\bin\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\obj\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\obj\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\obj\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira1.Ders5.ConsoleKomutlari\obj\Debug\NetFramework.Sira1.Ders5.ConsoleKomutlari.pdb
