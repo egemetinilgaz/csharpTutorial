@@ -52,9 +52,16 @@ namespace NetFramework.Sira2.Ders2.KarsilartirmaOperator
             Console.WriteLine(esitDegildirOperatorSonuc);
 
             //is - as operatorleri
+            
+            object O1 = "Metin";
+            
+            int sayi1 = (int)O1;
 
-
-
+            bool veriTipiKontrol = O1 is int;
+            object O2 = "Ege Metin ILGAZ";
+            string isim = O2 as string;
+            
+            Console.WriteLine("");
         }
     }
 }
