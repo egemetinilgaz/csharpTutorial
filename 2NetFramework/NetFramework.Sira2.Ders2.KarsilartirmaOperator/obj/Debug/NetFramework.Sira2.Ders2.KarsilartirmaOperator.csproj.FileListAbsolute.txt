@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\bin\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\bin\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\bin\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\obj\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\obj\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\obj\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders2.KarsilartirmaOperator\obj\Debug\NetFramework.Sira2.Ders2.KarsilartirmaOperator.pdb
