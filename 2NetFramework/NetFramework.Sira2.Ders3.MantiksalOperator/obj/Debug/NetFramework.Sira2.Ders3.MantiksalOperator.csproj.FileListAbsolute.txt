@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\bin\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\bin\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\bin\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\obj\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\obj\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\obj\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira2.Ders3.MantiksalOperator\obj\Debug\NetFramework.Sira2.Ders3.MantiksalOperator.pdb
