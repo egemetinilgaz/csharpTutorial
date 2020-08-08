@@ -44,15 +44,13 @@ namespace NetFramework.Sira2.Ders4.AtamaOperator
 
             //ozel amacli operatorler
 
-            /*farkli bircok konuda karsimiza cikacak
+            /*
+             farkli bircok konuda karsimiza cikacak
              * ? karar yapilari bolumde incelenecek
              * () tur donusumu islemlerinde boxing - unboxing
              * [] dizi islemlerinde incelenecek
              * new class yapilarinda incelenecek
              */
-
-            //region kullanimi
-
         }
     }
 }
