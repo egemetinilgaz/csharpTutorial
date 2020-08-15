@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\bin\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\bin\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\bin\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\obj\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\obj\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\obj\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders1.if-else.Kullanim\obj\Debug\NetFramework.Sira3.Ders1.if-else.Kullanim.pdb
