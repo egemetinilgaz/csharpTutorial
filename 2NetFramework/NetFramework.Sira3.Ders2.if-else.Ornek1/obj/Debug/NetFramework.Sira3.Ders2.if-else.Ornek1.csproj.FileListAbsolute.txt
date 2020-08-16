@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\obj\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\obj\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\bin\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\bin\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\bin\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\obj\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders2.if-else.Ornek1\obj\Debug\NetFramework.Sira3.Ders2.if-else.Ornek1.pdb
