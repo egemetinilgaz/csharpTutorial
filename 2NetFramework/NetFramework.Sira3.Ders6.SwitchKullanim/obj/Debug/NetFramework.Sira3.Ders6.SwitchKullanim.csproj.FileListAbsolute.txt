@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\bin\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\bin\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\bin\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\obj\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\obj\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\obj\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira3.Ders6.SwitchKullanim\obj\Debug\NetFramework.Sira3.Ders6.SwitchKullanim.pdb
