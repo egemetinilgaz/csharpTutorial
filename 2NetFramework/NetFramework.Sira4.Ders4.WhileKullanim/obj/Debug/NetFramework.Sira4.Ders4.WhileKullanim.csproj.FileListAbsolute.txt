@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\obj\Debug\NetFramework.Sira4.Ders4.WhileKullanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\obj\Debug\NetFramework.Sira4.Ders4.WhileKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\bin\Debug\NetFramework.Sira4.Ders4.WhileKullanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\bin\Debug\NetFramework.Sira4.Ders4.WhileKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\bin\Debug\NetFramework.Sira4.Ders4.WhileKullanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\obj\Debug\NetFramework.Sira4.Ders4.WhileKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders4.WhileKullanim\obj\Debug\NetFramework.Sira4.Ders4.WhileKullanim.pdb
