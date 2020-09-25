@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\bin\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\bin\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\bin\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\obj\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\obj\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\obj\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders5.WhileOrnekler\obj\Debug\NetFramework.Sira4.Ders5.WhileOrnekler.csprojAssemblyReference.cache
