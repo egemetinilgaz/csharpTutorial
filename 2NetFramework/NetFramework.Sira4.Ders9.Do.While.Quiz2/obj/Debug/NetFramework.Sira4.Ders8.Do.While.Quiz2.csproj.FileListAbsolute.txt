@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\bin\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\bin\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\bin\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\obj\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\obj\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\obj\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira4.Ders8.Do.While.Quiz2\obj\Debug\NetFramework.Sira4.Ders8.Do.While.Quiz2.pdb
