@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\bin\Debug\NetFramework.Sira5.Ders1.ArrayListGenelKullanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\bin\Debug\NetFramework.Sira5.Ders1.ArrayListGenelKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\bin\Debug\NetFramework.Sira5.Ders1.ArrayListGenelKullanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\obj\Debug\NetFramework.Sira6.Ders1.ArrayListGenelKullanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\obj\Debug\NetFramework.Sira6.Ders1.ArrayListGenelKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\obj\Debug\NetFramework.Sira5.Ders1.ArrayListGenelKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira5.Ders1.ArrayListGenelKullanim\obj\Debug\NetFramework.Sira5.Ders1.ArrayListGenelKullanim.pdb
