@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\bin\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\bin\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\bin\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\obj\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\obj\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\obj\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira6.Ders5.Hash.Table.Quiz1\obj\Debug\NetFramework.Sira6.Ders5.Hash.Table.Quiz1.pdb
