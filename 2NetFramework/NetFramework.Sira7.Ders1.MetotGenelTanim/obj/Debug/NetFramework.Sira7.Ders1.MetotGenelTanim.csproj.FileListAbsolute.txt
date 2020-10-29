@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\bin\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\bin\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\bin\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\obj\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\obj\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\obj\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders1.MetotGenelTanim\obj\Debug\NetFramework.Sira7.Ders1.MetotGenelTanim.pdb
