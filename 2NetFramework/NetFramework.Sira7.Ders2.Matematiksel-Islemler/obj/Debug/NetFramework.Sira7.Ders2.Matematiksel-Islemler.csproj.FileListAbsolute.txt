@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\bin\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\bin\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\bin\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\obj\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\obj\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\obj\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders2.Matematiksel-Islemler\obj\Debug\NetFramework.Sira7.Ders2.Matematiksel-Islemler.pdb
