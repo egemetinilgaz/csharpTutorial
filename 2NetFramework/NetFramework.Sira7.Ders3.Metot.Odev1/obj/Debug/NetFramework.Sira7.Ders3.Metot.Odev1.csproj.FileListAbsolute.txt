@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\bin\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\bin\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\bin\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\obj\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\obj\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\obj\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders3.Metot.Odev1\obj\Debug\NetFramework.Sira7.Ders3.Metot.Odev1.csprojAssemblyReference.cache
