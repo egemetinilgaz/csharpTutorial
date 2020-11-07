@@ -15,7 +15,7 @@ namespace NetFramework.Sira7.Ders4.RefOutKullanim
 
             //deger tipli davranistan referans tipli davranisa gecmemize olanak saglar
 
-            //esskiden aralarindaki fark suydu
+            //eskiden aralarindaki fark suydu
             //ref kullanirken main kismindaki sayi1 in deger almasi zorunluydu
             //out kullanirken de yine bir deger almasi gerekiyordu ama bu deger
             //main kisminda olmayan metotda da verilebiliyordu
@@ -30,6 +30,6 @@ namespace NetFramework.Sira7.Ders4.RefOutKullanim
             gelenDeger = 10;
         }
 
-        //simdi yeni .net surumleride deger vermeden islemlerimize devame edebiliyoruz 
+        //simdi yeni .net surumleride deger vermeden islemlerimize devam edebiliyoruz 
     }
 }
