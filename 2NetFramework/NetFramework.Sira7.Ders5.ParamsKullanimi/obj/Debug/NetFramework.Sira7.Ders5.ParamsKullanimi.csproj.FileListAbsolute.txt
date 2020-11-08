@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\bin\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\bin\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\bin\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\obj\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\obj\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\obj\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira7.Ders5.ParamsKullanimi\obj\Debug\NetFramework.Sira7.Ders5.ParamsKullanimi.pdb
