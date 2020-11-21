@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\bin\Debug\NetFramework.Sira8.Ders1.OOPNedir.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\bin\Debug\NetFramework.Sira8.Ders1.OOPNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\bin\Debug\NetFramework.Sira8.Ders1.OOPNedir.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\obj\Debug\NetFramework.Sira8.Ders1.OOPNedir.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\obj\Debug\NetFramework.Sira8.Ders1.OOPNedir.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\obj\Debug\NetFramework.Sira8.Ders1.OOPNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders1.OOPNedir\obj\Debug\NetFramework.Sira8.Ders1.OOPNedir.pdb
