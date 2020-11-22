@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\bin\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\bin\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\bin\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\obj\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\obj\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\obj\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira8.Ders2.Siniflarda.Metot\obj\Debug\NetFramework.Sira8.Ders2.Siniflarda.Metot.pdb
