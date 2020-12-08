@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\bin\Debug\NetFramework.Sira9.Ders3.Encapsulation3.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\bin\Debug\NetFramework.Sira9.Ders3.Encapsulation3.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\bin\Debug\NetFramework.Sira9.Ders3.Encapsulation3.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\obj\Debug\NetFramework.Sira9.Ders4.Encapsulation3.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\obj\Debug\NetFramework.Sira9.Ders4.Encapsulation3.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\obj\Debug\NetFramework.Sira9.Ders3.Encapsulation3.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira9.Ders3.Encapsulation3\obj\Debug\NetFramework.Sira9.Ders3.Encapsulation3.pdb
