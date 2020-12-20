@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\bin\Debug\NetFramework.Sira10.Ders2.StaticField.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\bin\Debug\NetFramework.Sira10.Ders2.StaticField.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\bin\Debug\NetFramework.Sira10.Ders2.StaticField.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\obj\Debug\NetFramework.Sira10.Ders2.StaticField.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\obj\Debug\NetFramework.Sira10.Ders2.StaticField.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\obj\Debug\NetFramework.Sira10.Ders2.StaticField.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders2.StaticField\obj\Debug\NetFramework.Sira10.Ders2.StaticField.pdb
