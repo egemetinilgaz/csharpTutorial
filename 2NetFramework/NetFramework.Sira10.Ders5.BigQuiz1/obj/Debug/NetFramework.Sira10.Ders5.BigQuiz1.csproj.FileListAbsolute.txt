@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\bin\Debug\NetFramework.Sira10.Ders5.BigQuiz1.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\bin\Debug\NetFramework.Sira10.Ders5.BigQuiz1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\bin\Debug\NetFramework.Sira10.Ders5.BigQuiz1.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\obj\Debug\NetFramework.Sira10.Ders5.BigQuiz1.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\obj\Debug\NetFramework.Sira10.Ders5.BigQuiz1.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\obj\Debug\NetFramework.Sira10.Ders5.BigQuiz1.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira10.Ders5.BigQuiz1\obj\Debug\NetFramework.Sira10.Ders5.BigQuiz1.pdb
