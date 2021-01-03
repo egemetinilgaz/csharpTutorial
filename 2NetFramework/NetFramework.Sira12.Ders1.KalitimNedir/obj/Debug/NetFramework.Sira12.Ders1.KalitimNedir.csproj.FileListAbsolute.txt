@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\bin\Debug\NetFramework.Sira12.Ders1.KalitimNedir.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\bin\Debug\NetFramework.Sira12.Ders1.KalitimNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\bin\Debug\NetFramework.Sira12.Ders1.KalitimNedir.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\obj\Debug\NetFramework.Sira12.Ders1.KalitimNedir.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\obj\Debug\NetFramework.Sira12.Ders1.KalitimNedir.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\obj\Debug\NetFramework.Sira12.Ders1.KalitimNedir.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders1.KalitimNedir\obj\Debug\NetFramework.Sira12.Ders1.KalitimNedir.pdb
