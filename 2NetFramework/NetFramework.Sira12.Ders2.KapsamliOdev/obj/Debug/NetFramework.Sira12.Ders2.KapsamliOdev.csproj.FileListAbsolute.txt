@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\bin\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\bin\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\bin\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\obj\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\obj\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\obj\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira12.Ders2.KapsamliOdev\obj\Debug\NetFramework.Sira12.Ders2.KapsamliOdev.pdb
