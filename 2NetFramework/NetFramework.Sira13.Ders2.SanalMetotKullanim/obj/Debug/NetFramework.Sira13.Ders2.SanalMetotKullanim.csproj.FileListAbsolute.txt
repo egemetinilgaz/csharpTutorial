@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\obj\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\obj\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\bin\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\bin\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\bin\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\obj\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira13.Ders2.SanalMetotKullanim\obj\Debug\NetFramework.Sira13.Ders2.SanalMetotKullanim.pdb
