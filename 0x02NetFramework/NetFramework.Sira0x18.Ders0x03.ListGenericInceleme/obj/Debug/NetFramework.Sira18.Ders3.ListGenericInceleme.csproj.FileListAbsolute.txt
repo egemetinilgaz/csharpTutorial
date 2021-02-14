@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\bin\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\bin\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\bin\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\obj\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\obj\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\obj\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders3.ListGenericInceleme\obj\Debug\NetFramework.Sira18.Ders3.ListGenericInceleme.pdb
