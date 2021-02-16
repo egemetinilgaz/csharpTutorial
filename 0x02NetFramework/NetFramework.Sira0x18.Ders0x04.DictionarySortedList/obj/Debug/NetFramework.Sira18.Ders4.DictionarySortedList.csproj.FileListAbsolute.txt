@@ -1,0 +1,7 @@
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\bin\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.exe.config
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\bin\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\bin\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.pdb
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\obj\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.csprojAssemblyReference.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\obj\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.csproj.CoreCompileInputs.cache
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\obj\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.exe
+C:\Users\ilgaz\OneDrive\lucasauan project\visual studio\csharp\csharp tutorial\NetFramework\NetFramework\NetFramework.Sira18.Ders4.DictionarySortedList\obj\Debug\NetFramework.Sira18.Ders4.DictionarySortedList.pdb
